@@ -1,1 +1,1 @@
-# TEST-PROJECT
+print("hello world")
